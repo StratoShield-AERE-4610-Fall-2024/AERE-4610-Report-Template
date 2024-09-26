@@ -149,6 +149,7 @@
 \NewDocumentCommand{\fourthauthor}{m}{\newcommand{\fourthauthorname}{#1}}
 \NewDocumentCommand{\fifthauthor}{m}{\newcommand{\fifthauthorname}{#1}}
 \NewDocumentCommand{\sixthauthor}{m}{\newcommand{\sixthauthorname}{#1}}
+\NewDocumentCommand{\seventhauthor}{m}{\newcommand{\seventhauthorname}{#1}}
 \NewDocumentCommand{\supervisor}{m}{\newcommand{\supname}{#1}}
 \NewDocumentCommand{\supervisormail}{m}{\newcommand{\supmail}{#1}}
 \NewDocumentCommand{\subtitle}{m}{\newcommand{\subname}{#1}}
