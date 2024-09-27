@@ -226,7 +226,7 @@
 }
 
 % Configure siunitx
-\sisetup{per-mode=symbol}
+\sisetup{per-mode=fraction}
 
 % Configure step autoref
 \renewcommand{\itemautorefname}{Step}
